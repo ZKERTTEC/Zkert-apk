@@ -1,0 +1,6 @@
+{
+  "name": "زكرت للمحاسبة",
+  "description": "نظام زكرت المحاسبي ثنائي القيد الأوفلاين 100% لإحصاء الأرصدة وإدارة دليل الحسابات وصك الفواتير بحرفية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
